@@ -13,7 +13,7 @@
 - Abrir la consola y usar el comando npm i
 - Subir base de datos ubicada en este repositorio llamda konecta.sql
 - Configurar archivo .env con las credenciales correspondiente para la conexión a la base de datos ( "DB_DATABASE", "DB_USERNAME", "DB_PASSWORD" )
-- Usar comando "php artisan storage:lin"
+- Usar comando "php artisan storage:link"
 - Usuario de prueba para panel: usuarioprueba@gmail.com
 - Contraseña de prueba panel : 123456
 
